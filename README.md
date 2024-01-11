@@ -45,5 +45,10 @@ Pero nos fue compartido un JSON con los tweets a analizar.
 
 Este archivo lo subi en un repositorio aparte con el fin de crear una notebook en colab y analizar su informacion.
 
-https://github.com/jcarlos03100890/Reto1_data
+[Datos](https://github.com/jcarlos03100890/Reto1_data)
+
+[Data analysis]()
+
+
+
 
