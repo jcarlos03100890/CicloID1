@@ -47,8 +47,9 @@ Este archivo lo subi en un repositorio aparte con el fin de crear una notebook e
 
 [Datos](https://github.com/jcarlos03100890/Reto1_data)
 
-[Data analysis]()
+[Data analysis](https://github.com/jcarlos03100890/CicloID1/blob/main/Data_analysis.ipynb)
 
+Para el analisis de datos utilice unos archivos CSV de una tienda de deportes.
 
 
 
